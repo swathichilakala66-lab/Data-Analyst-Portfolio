@@ -6,41 +6,41 @@ This project focuses on analyzing customer data to understand customer behavior,
 
 ## Dataset
 
-  -Source: MYSQL Database 
-  -Imported into Power BI
-  -Dataset Size: Approximately 100,000 records.
+  - Source: MYSQL Database 
+  - Imported into Power BI
+  - Dataset Size: Approximately 100,000 records.
 
 ## Tools & Technologies
   
-  -Power BI
-  -SQL
-  -Power Query
-  -DAX
+  - Power BI
+  - SQL
+  - Power Query
+  - DAX
 
 ## Dashboard features
   
-  -KPI Cards
-  -Customer Analysis
-  -Sales Analysis
-  -Gender Analysis
-  -Interactive Charts
-  -Slicers and filters
+  - KPI Cards
+  - Customer Analysis
+  - Sales Analysis
+  - Gender Analysis
+  - Interactive Charts
+  - Slicers and filters
 
 ## Skills Demonstrated
   
-  -Data Cleaning
-  -Data Transformation
-  -Data Modeling (Star Schema)
-  -Dashboard Development
-  -Data Visualization
-  -Business Analysis
+  - Data Cleaning
+  - Data Transformation
+  - Data Modeling (Star Schema)
+  - Dashboard Development
+  - Data Visualization
+  - Business Analysis
 
 ## Project Files
 
-  -Power BI Dashboard (.pbix)
-  -Project Report
-  -Presentation (PPT)
-  -Dashboard screenshots
+  - Power BI Dashboard (.pbix)
+  - Project Report
+  - Presentation (PPT)
+  - Dashboard screenshots
 
 
 
