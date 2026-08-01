@@ -1,4 +1,4 @@
-# Profit Analysis Using Regression
+# Profit Analysis Using Regression (Capstone Project)
 
 ## Project Overview
 
